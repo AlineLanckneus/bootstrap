@@ -1,3 +1,6 @@
+html{
+    background-color: rgb(236, 233, 233);
+}
 .btn{
     border: none;
 }
@@ -7,3 +10,4 @@
     color: white;
     border-radius: 20px;
 }
+
